@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Howard Sanders
 - 👀 I’m interested in the Web
-- 🌱 I’m currently learning Web3
+- 🌱 I’m currently building Web3 Platforms
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me - email me
 
